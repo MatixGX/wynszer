@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/wynszer/static/css/main.4130d580.css",
-    "main.js": "/wynszer/static/js/main.16aa6076.js",
-    "static/js/453.f5e94559.chunk.js": "/wynszer/static/js/453.f5e94559.chunk.js",
-    "static/media/cat.gif": "/wynszer/static/media/cat.2681f646428e0c1130a0.gif",
-    "static/media/instagram.png": "/wynszer/static/media/instagram.abb3028b8da10abedf9b.png",
-    "static/media/bg.jpg": "/wynszer/static/media/bg.47e27d9a8d1156910865.jpg",
-    "static/media/logo.jpg": "/wynszer/static/media/logo.dddcc356f403c39de161.jpg",
-    "static/media/gmail.png": "/wynszer/static/media/gmail.eb3d6e8367d918774dad.png",
-    "static/media/shorts.png": "/wynszer/static/media/shorts.e3701dbc13679356e7a3.png",
-    "static/media/discord.png": "/wynszer/static/media/discord.77c785487245060914ef.png",
-    "static/media/discordjs.png": "/wynszer/static/media/discordjs.1aa9434f676563711fbb.png",
-    "static/media/yt.png": "/wynszer/static/media/yt.cc3e38306735bf17e928.png",
-    "index.html": "/wynszer/index.html",
-    "main.4130d580.css.map": "/wynszer/static/css/main.4130d580.css.map",
-    "main.16aa6076.js.map": "/wynszer/static/js/main.16aa6076.js.map",
-    "453.f5e94559.chunk.js.map": "/wynszer/static/js/453.f5e94559.chunk.js.map"
+    "main.css": "/static/css/main.4130d580.css",
+    "main.js": "/static/js/main.c0cb0efe.js",
+    "static/js/453.f5e94559.chunk.js": "/static/js/453.f5e94559.chunk.js",
+    "static/media/cat.gif": "/static/media/cat.2681f646428e0c1130a0.gif",
+    "static/media/instagram.png": "/static/media/instagram.abb3028b8da10abedf9b.png",
+    "static/media/bg.jpg": "/static/media/bg.47e27d9a8d1156910865.jpg",
+    "static/media/logo.jpg": "/static/media/logo.dddcc356f403c39de161.jpg",
+    "static/media/gmail.png": "/static/media/gmail.eb3d6e8367d918774dad.png",
+    "static/media/shorts.png": "/static/media/shorts.e3701dbc13679356e7a3.png",
+    "static/media/discord.png": "/static/media/discord.77c785487245060914ef.png",
+    "static/media/discordjs.png": "/static/media/discordjs.1aa9434f676563711fbb.png",
+    "static/media/yt.png": "/static/media/yt.cc3e38306735bf17e928.png",
+    "index.html": "/index.html",
+    "main.4130d580.css.map": "/static/css/main.4130d580.css.map",
+    "main.c0cb0efe.js.map": "/static/js/main.c0cb0efe.js.map",
+    "453.f5e94559.chunk.js.map": "/static/js/453.f5e94559.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4130d580.css",
-    "static/js/main.16aa6076.js"
+    "static/js/main.c0cb0efe.js"
   ]
 }
